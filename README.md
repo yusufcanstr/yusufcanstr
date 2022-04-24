@@ -8,13 +8,17 @@
 
 
 <h2>🚀 Languages and Tools:</h2>
-<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/java.png" width="86" height="48" align="left" />
-<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/androidstudio.png" width="48" height="48" align="left" />
-<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/firebase1.png" width="88" height="28" align="left" />
+[<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/java.png" width="86" height="48" align="left" />][java]
+[<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/androidstudio.png" width="48" height="48" align="left" />][firebase]
+[<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/firebase1.png" width="88" height="28" align="left" />][androidstudio]
 
 
 [youtube]: https://www.youtube.com/channel/UCigbkww1ioIfyuA7Ubsz2Zw
 [linkedin]: https://www.linkedin.com/in/yusufcan-%C5%9Fent%C3%BCrk-a8a53a226/
+
+[java]: https://dev.java/
+[firebase]: https://firebase.google.com/
+[androidstudio]: https://developer.android.com/
 
 <br><br><br>
 
