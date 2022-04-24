@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
 <font> 🔘 💻 Android Developer</font><br>
-<font> 🔘 👀 My youtube <a href="https://www.kodkampusu.com" target="_blank"> channel</a> </font><br>
+<font> 🔘 👀 My youtube <a href="https://www.youtube.com/channel/UCigbkww1ioIfyuA7Ubsz2Zw" target="_blank"> channel</a> </font><br>
 <font> 🔘 💙 I love writing Java</font></br>
 
 
