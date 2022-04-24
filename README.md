@@ -8,7 +8,7 @@
 
 
 <h2>🚀 Languages and Tools:</h2>
-[<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/java.png" width="86" height="48" align="left" />][java]
+<a href="java"><img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/java.png" width="86" height="48" align="left" /></a>
 [<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/androidstudio.png" width="48" height="48" align="left" />][firebase]
 [<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/firebase1.png" width="88" height="28" align="left" />][androidstudio]
 
