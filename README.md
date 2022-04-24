@@ -8,11 +8,11 @@
 
 
 <h2>🚀 Languages and Tools:</h2>
-<a href="https://dev.java/"><img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/java.png" width="86" height="48" align="left" /></a>
+<a href="https://dev.java/" target="_blank"><img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/java.png" width="86" height="48" align="left" /></a>
 
-<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/androidstudio.png" width="48" height="48" align="left" />
+<a href="https://developer.android.com/" target="_blank"><img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/androidstudio.png" width="48" height="48" align="left" /></a>
 
-<img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/firebase1.png" width="88" height="28" align="left" />
+<a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/firebase1.png" width="88" height="28" align="left" /></a>
 
 
 [youtube]: https://www.youtube.com/channel/UCigbkww1ioIfyuA7Ubsz2Zw
