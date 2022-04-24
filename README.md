@@ -1,2 +1,2 @@
-<h1>Hi , my name is yusufcan</h1>
-<div style="width:300"><div style="height:0;padding-bottom:62.5%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/xxPqL4BBV3o46xWT9l/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+<h2>Hi , my name is yusufcan</h2>
+<img src="https://giphy.com/clips/studiosoriginals-hello-hi-welcome-xxPqL4BBV3o46xWT9l" align="right" width="300" height="200">
