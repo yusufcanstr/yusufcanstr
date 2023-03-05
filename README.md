@@ -1,30 +1,22 @@
-<h2>Hi , my name is yusufcan 👋</h2>
-<img src="https://media0.giphy.com/media/fSXkDRyNHgQ3xBbCOo/giphy.gif?cid=ecf05e47s9rk1wsyds6xuhqoqra0xtxwfy2ecdl9hdlt81s3&rid=giphy.gif&ct=g" align="right" width="200" height="200">
+<h1 align="center">Hi 👋, I'm Yusufcan</h1>
+<h3 align="center">A passionate android developer from Türkiye</h3>
 
-<h2>About me</h2>
-<font> 🔘 💻 Android Developer</font><br>
-<font> 🔘 👀 My youtube <a href="https://www.youtube.com/channel/UCigbkww1ioIfyuA7Ubsz2Zw" target="_blank"> channel</a> </font><br>
-<font> 🔘 💙 I love writing Kotlin</font></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufcanstr&label=Profile%20views&color=0e75b6&style=flat" alt="yusufcanstr" /> </p>
 
+- 🌱 I’m currently learning **Jetpack Compose**
 
-<h2>🚀 Languages and Tools:</h2>
-<a href="https://dev.java/" target="_blank"><img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/java.png" width="86" height="48" align="left" /></a>
+- 💬 Ask me about **Android**
 
-<a href="https://developer.android.com/" target="_blank"><img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/androidstudio.png" width="48" height="48" align="left" /></a>
+- 📫 How to reach me **yusufcansenturk10@gmail.com**
 
-<a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/yusufcanstr/yusufcanstr/blob/main/firebase1.png" width="88" height="28" align="left" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yusufcansenturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufcansenturk" height="30" width="40" /></a>
+<a href="https://instagram.com/yusufcanstr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufcanstr" height="30" width="40" /></a>
+<a href="https://medium.com/@yusufcansenturk3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yusufcansenturk3" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-[youtube]: https://www.youtube.com/channel/UCigbkww1ioIfyuA7Ubsz2Zw
-[linkedin]: https://www.linkedin.com/in/yusufcan-%C5%9Fent%C3%BCrk-a8a53a226/
-
-[java]: https://dev.java/
-[firebase]: https://firebase.google.com/
-[androidstudio]: https://developer.android.com/
-
-<br><br><br>
-
-<h2>Reach out to me 😉</h2>
-
-[<img width="29" src="https://github.com/yusufcanstr/yusufcanstr/blob/main/youtube.png" align="left" />][youtube]
-[<img width="25" src="https://github.com/yusufcanstr/yusufcanstr/blob/main/linkedin.png" align="left" />][linkedin]
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufcanstr&show_icons=true&locale=en&layout=compact" alt="yusufcanstr" /></p>
