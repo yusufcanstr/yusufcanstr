@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about **Android**
-
 - 📫 How to reach me **yusufcansenturk10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
