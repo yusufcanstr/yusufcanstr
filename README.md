@@ -1,3 +1,4 @@
+<img align="center" src ="https://github.com/yusufcanstr/yusufcanstr/blob/main/androidbackground.png"/>
 <h1 align="center">Hi 👋, I'm Yusufcan</h1>
 <h3 align="center">A passionate android developer from Türkiye</h3>
 
