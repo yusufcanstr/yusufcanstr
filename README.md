@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufcanstr&label=Profile%20views&color=0e75b6&style=flat" alt="yusufcanstr" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **yusufcansenturk10@gmail.com**
 
